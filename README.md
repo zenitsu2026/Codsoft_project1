@@ -54,5 +54,5 @@ If you would like to contribute to this project:
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any queries or suggestions, contact us at **your-email@example.com**.
+For any queries or suggestions, contact us at **ranvverpaul1@gmail.com**.
 
